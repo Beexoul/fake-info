@@ -1,6 +1,6 @@
 # FakeInfoGenerator
 
-The `FakeInfoGenerator` is a Python script that generates fake personal information such as names, email addresses, street addresses, cities, states, and zip codes. It can be used for testing, generating sample data, or any other purpose that requires fake information.
+The FakeInfoGenerator is a Python script that generates fake personal information such as names, email addresses, street addresses, cities, states, and zip codes. It can be used for testing, generating sample data, or any other purpose that requires fake information.
 
 ## Usage
 
@@ -41,13 +41,5 @@ STATES = ["P1", "P2", "P3", "P4", "P5"]
 ```
 
 # Output
-
-```bash
-First Name: Sabina
-Last Name: Gurung
-Email: sabina.gurung70@aol.com     
-Street Address: 837 Jawalakhel Road
-City: Bhaktapur
-State: P4
-Zip Code: 55298
-```
+Image : <br>
+![image](https://user-images.githubusercontent.com/97790932/235071919-100f587a-ff0e-47e2-a54c-bef6ec9f2cc8.png)
