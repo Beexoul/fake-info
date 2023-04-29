@@ -4,7 +4,7 @@ The FakeInfoGenerator is a Python script that generates fake personal informatio
 
 ## Usage
 
-1. Clone or download the `fake_info_generator.py` file.
+1. Clone or download the `fakeinfo.py` file.
 
 2. Make sure you have Python installed on your system.
 
@@ -12,13 +12,13 @@ The FakeInfoGenerator is a Python script that generates fake personal informatio
 
    ```shell
 
-   python fake_info_generator.py
+   python fakeinfo.py
 
    ```
 4. The script will generate random fake information and display it in the console.
 
 # Generated Information
-The `fake_info_generator.py` script generates the following fake information:
+The `fakeinfo.py` script generates the following fake information:
 
 First Name: Randomly selected from a list of common Nepali first names.
 Last Name: Randomly selected from a list of common Nepali last names.
