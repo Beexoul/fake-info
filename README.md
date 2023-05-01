@@ -17,6 +17,7 @@ The FakeInfoGenerator is a Python script that generates fake personal informatio
    ```
 4. The script will generate random fake information and display it in the console.
 
+
 # Generated Information
 The `fakeinfo.py` script generates the following fake information:
 
